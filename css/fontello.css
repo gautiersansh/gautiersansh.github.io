@@ -54,6 +54,10 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-github:before { content: '\e800'; } /* '' */
-.icon-linkedin-squared:before { content: '\e801'; } /* '' */
-.icon-twitter:before { content: '\e802'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-instagram-1:before { content: '\f16d'; } /* '' */
+.icon-soundcloud:before { content: '\f1be'; } /* '' */
+.icon-sellsy:before { content: '\f213'; } /* '' */
+.icon-volume-control-phone:before { content: '\f2a0'; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; } /* '' */
+.icon-instagram:before { content: '\f32d'; } /* '' */
